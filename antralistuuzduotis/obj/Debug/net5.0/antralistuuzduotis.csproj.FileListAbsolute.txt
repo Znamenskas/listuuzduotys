@@ -1,0 +1,15 @@
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/antralistuuzduotis.deps.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/antralistuuzduotis.runtimeconfig.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/antralistuuzduotis.runtimeconfig.dev.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/antralistuuzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/ref/antralistuuzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/bin/Debug/net5.0/antralistuuzduotis.pdb
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.csproj.AssemblyReference.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.AssemblyInfoInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.AssemblyInfo.cs
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.csproj.CoreCompileInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/ref/antralistuuzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.pdb
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/antralistuuzduotis/obj/Debug/net5.0/antralistuuzduotis.genruntimeconfig.cache

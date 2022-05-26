@@ -1,0 +1,15 @@
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/pirmauzduotis.deps.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/pirmauzduotis.runtimeconfig.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/pirmauzduotis.runtimeconfig.dev.json
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/pirmauzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/ref/pirmauzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/bin/Debug/net5.0/pirmauzduotis.pdb
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.csproj.AssemblyReference.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.AssemblyInfoInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.AssemblyInfo.cs
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.csproj.CoreCompileInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/ref/pirmauzduotis.dll
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.pdb
+/Users/rasamikuleviciene/Desktop/mano/csharp/listai/listuuzduotys/pirmauzduotis/obj/Debug/net5.0/pirmauzduotis.genruntimeconfig.cache
