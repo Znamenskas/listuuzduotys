@@ -2,20 +2,18 @@
   <MonoDevelop.Ide.ItemProperties.antralistuuzduotis PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.pirmauzduotis PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.listunuskaitymasikoncolepavyzdziai FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="listunuskaitymasikoncolepavyzdziai/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Treciauzduotis/Program.cs">
     <Files>
-      <File FileName="Treciauzduotis/Program.cs" Line="15" Column="13" />
+      <File FileName="Treciauzduotis/Program.cs" Line="73" Column="18" />
       <File FileName="antralistuuzduotis/Program.cs" />
-      <File FileName="listunuskaitymasikoncolepavyzdziai/Program.cs" Line="19" Column="1" NotebookId="1" />
+      <File FileName="listunuskaitymasikoncolepavyzdziai/Program.cs" Line="54" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="listuuzduotys" expanded="True">
+          <Node name="listuuzduotys" expanded="True" selected="True">
             <Node name="antralistuuzduotis" expanded="True" />
-            <Node name="listunuskaitymasikoncolepavyzdziai" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="listunuskaitymasikoncolepavyzdziai" expanded="True" />
             <Node name="Treciauzduotis" expanded="True" />
           </Node>
         </State>
